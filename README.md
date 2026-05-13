@@ -259,6 +259,5 @@ streamlit run dashboard.py
 
 ## 👤 Autor
 
-- **Nombre:** [Tu nombre completo]
-- **Curso:** Maestría en Data Science
-- **Repositorio:** https://github.com/<TU_USUARIO>/ml-pipeline
+- **Nombre:** JoMa
+- **Curso:** Maestría en Data Science - San Pablo
